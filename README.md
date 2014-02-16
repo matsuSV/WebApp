@@ -1,4 +1,0 @@
-HelloWorld
-==========
-
-sample web application
